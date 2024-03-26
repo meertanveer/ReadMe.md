@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a creative designer and developer, who aims to work with small businesses and marginalized communities to bring their passions to life. I offer both design and development services of web applications or websites!
+Passionate Front-End Developer proficient in React.js, Next.js, Redux, and Tailwind CSS. Crafting captivating user experiences with expertise in modern web technologies. Committed to delivering high-quality, responsive designs. Dedicated to continuous learning and innovation in the ever-evolving landscape of front-end development.
 
 
 ## 🌐 Socials:
